@@ -8,7 +8,6 @@ const nextConfig = {
   },
 
   basePath: "/SeoulSis2026",
-  assetPrefix: "/SeoulSis2026/",
 };
 
 module.exports = nextConfig;
